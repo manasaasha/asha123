@@ -1,0 +1,21 @@
+age=18
+if age>=18:
+  print("you arte eligible to voting")
+
+
+[ ]
+Double-click (or enter) to edit
+
+Double-click (or enter) to edit
+
+Double-click (or enter) to edit
+
+if statement
+
+
+[2]
+age=18
+if age>=18:
+  print("you arte eligible to voting")
+
+you arte eligible to voting
